@@ -30,3 +30,5 @@ The Discord is the primary place for:
 
 Kinspace is currently in **Alpha**. You may encounter bugs or incomplete features. Feedback is greatly appreciated.
 
+No account required. Your data stays on your device unless you choose to export it.
+
